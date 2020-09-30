@@ -1,3 +1,6 @@
+If you have a question like What is GitHub? How we can use it?
+Then you are at the right place, this is very helpful for understanding GitHub.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
